@@ -1,0 +1,21 @@
+{
+  "name": "dcr-jekyll",
+  "version": "0.1.0",
+  "description": "Docker Compose 'run' module for Jekyll.",
+  "keywords": [
+    "docker",
+    "docker compose",
+    "jekyll"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/markbirbeck/docker-compose-run",
+  "bugs": "https://github.com/markbirbeck/docker-compose-run/issues",
+  "homepage": "https://github.com/markbirbeck/docker-compose-run",
+  "bin": {
+    "dcr-jekyll": "./bin/cli.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "docker-compose-run": "^0.2.1"
+  }
+}
