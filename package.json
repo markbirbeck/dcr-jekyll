@@ -16,6 +16,6 @@
   },
   "preferGlobal": true,
   "dependencies": {
-    "docker-compose-run": "^0.2.2"
+    "docker-compose-run": "^0.3.0"
   }
 }
