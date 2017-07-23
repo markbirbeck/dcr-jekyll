@@ -8,9 +8,9 @@
     "jekyll"
   ],
   "license": "MIT",
-  "repository": "https://github.com/markbirbeck/docker-compose-run",
-  "bugs": "https://github.com/markbirbeck/docker-compose-run/issues",
-  "homepage": "https://github.com/markbirbeck/docker-compose-run",
+  "repository": "https://github.com/markbirbeck/dcr-jekyll",
+  "bugs": "https://github.com/markbirbeck/dcr-jekyll/issues",
+  "homepage": "https://github.com/markbirbeck/dcr-jekyll",
   "bin": {
     "dcr-jekyll": "./bin/cli.js"
   },
