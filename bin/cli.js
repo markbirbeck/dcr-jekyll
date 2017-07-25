@@ -13,4 +13,4 @@ var dcr = require('docker-compose-run');
  * Compose file:
  */
 
-dcr('jekyll', path.join(__dirname, '..'));
+dcr('jekyll', path.join(__dirname, '..'), 'jekyll');
