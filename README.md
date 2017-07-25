@@ -5,6 +5,8 @@ Uses Docker Compose to run Jekyll.
 
 This saves us having to install Jekyll locally.
 
+For an explanation of the thinking behind this module see the blog post [Disposable Laptops With Docker Compose And NPM](http://bit.ly/2tBCYHB).
+
 The Docker image used is [jekyll/jekyll](https://hub.docker.com/r/jekyll/jekyll/) and is [described here](https://github.com/jekyll/docker/blob/master/README.md).
 
 To install, do:
